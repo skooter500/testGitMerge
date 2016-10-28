@@ -1,2 +1,0 @@
-# testGitMerge
-Hello from Bryan!!
