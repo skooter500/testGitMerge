@@ -1,2 +1,2 @@
 # testGitMerge
-Test
+Hello from Bryan!!
